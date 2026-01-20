@@ -1,6 +1,6 @@
 
 
-![FormatUsb]([assets/home-screen.png](https://formatusb.com/features/1.png))
+![FormatUsb]([[assets/home-screen.png](https://formatusb.com/features/1.png)](https://formatusb.com/features/1.png))
 
 This Project is based on Rufus https://rufus.ie/
 
